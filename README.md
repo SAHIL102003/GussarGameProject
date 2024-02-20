@@ -1,2 +1,2 @@
-# GussarGameProject
- gh
+# GusserGameProject
+ Gusser Game Using Core Java
